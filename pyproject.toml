@@ -1,5 +1,5 @@
 [project]
-name = "com.suaveinternational.trader"
+name = "suaveinternational_trader"
 version = "0.0.1"
 authors = [
   { name="Amer Akhtar", email="amersakhtar@gmail.com" },
